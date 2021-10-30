@@ -148,15 +148,15 @@
 
 \begin{frame}\frametitle{Objectives}
 	\centering
-	The present text seeks to document the development of this research work with as much detail on the methodologies as possible. from mathematical and theoretical developments to progress in technical and organizational aspects.
+	The present text seeks to document the development of this research work with detail. from mathematical and theoretical developments to progress in technical and organizational aspects.
 	\vspace{0.5cm}
 
 	\flushleft
 	The core topics of this study are:\\
 	\quad $\bullet$ Theoretical and mathematical development of two-dimensional cavity flow;\\
-	\quad $\bullet$ Development of neural network machine learning in FORTRAN;\\
+	\quad $\bullet$ Development of artificial neural network machine learning in FORTRAN;\\
 	\quad $\bullet$ Enhancement of the visualization methods with OpenGL in FORTRAN;\\
-	\quad $\bullet$ Development of MPI methodologies applyied to the fluid mechanics and neural network computations.\\
+	\quad $\bullet$ Development of MPI methodologies.\\
 \end{frame}
 
 \begin{frame}\frametitle{Bidimensional convective flow in a cavity}
@@ -190,6 +190,22 @@
 	\end{minipage}
 \end{frame}
 
+\begin{frame}\frametitle{ANN applyied to cavity flows}
+	\begin{minipage}[h!]{0.39\textwidth}
+		$\bullet$ Neural netwoks can be described as neural operators that learn mappings between finite-dimensional euclidean spaces.\\
+		$\bullet$ The catch is that they are discretization dependent, which drastically affects the applicability of the method.\\
+		$\bullet$ As seen in "Fourier Neural Operator For Parametric Partial Differential Equations"... The problem can be solved by training the neural network in Fourier Space.\\
+		$\bullet$ Such approach enables the network to be used in a variety of mash sizes and geometries.
+	\end{minipage}
+	\begin{minipage}[h!]{0.6\textwidth}
+		\begin{figure}[h!]
+			\centering
+			\includegraphics[trim = {0cm 0cm 0cm 0cm}, clip , angle=0, scale=0.18]{./my_images/neural_figure.png}
+			\caption{Simple neural network.}
+		\end{figure}
+	\end{minipage}
+\end{frame}
+
 \section{Embasamento Teórico}
 
 \section{Agradecimentos}
@@ -197,13 +213,13 @@
 		\placelogomflab 
 		\frametitle{Agradecimentos}
 		\begin{figure}
-			\begin{center}
-				\begin{tabular}{c c}
-					{\includegraphics[trim=0.0cm 0.0cm 0.0cm 0.0cm,clip=true,height=0.2\textheight]{figuras/petrobras.png}}&{\includegraphics[trim=0.0cm 0.0cm 0.0cm 0.0cm,clip=true,height=0.2\textheight]{figuras/logo_mflab.png}}\\
-					{\includegraphics[trim=0.0cm 0.0cm 0.0cm 0.0cm,clip=true,height=0.2\textheight]{figuras/cnpq.png}}&{\includegraphics[trim=0.0cm 0.0cm 0.0cm 0.0cm,clip=true,height=0.2\textheight]{figuras/CAPES.png}}\\
-					{\includegraphics[trim=0.0cm 0.0cm 0.0cm 0.0cm,clip=true,height=0.2\textheight]{figuras/FAPEMIG.jpg}}&{\includegraphics[trim=0.0cm 0.0cm 0.0cm 0.0cm,clip=true,height=0.2\textheight]{figuras/UFU_black.jpg}}\\
-				\end{tabular}
-			\end{center}
+		\begin{center}
+		\begin{tabular}{c c}
+			{\includegraphics[trim=0.0cm 0.0cm 0.0cm 0.0cm,clip=true,height=0.2\textheight]{figuras/petrobras.png}}&{\includegraphics[trim=0.0cm 0.0cm 0.0cm 0.0cm,clip=true,height=0.2\textheight]{figuras/logo_mflab.png}}\\
+			{\includegraphics[trim=0.0cm 0.0cm 0.0cm 0.0cm,clip=true,height=0.2\textheight]{figuras/cnpq.png}}&{\includegraphics[trim=0.0cm 0.0cm 0.0cm 0.0cm,clip=true,height=0.2\textheight]{figuras/CAPES.png}}\\
+			{\includegraphics[trim=0.0cm 0.0cm 0.0cm 0.0cm,clip=true,height=0.2\textheight]{figuras/FAPEMIG.jpg}}&{\includegraphics[trim=0.0cm 0.0cm 0.0cm 0.0cm,clip=true,height=0.2\textheight]{figuras/UFU_black.jpg}}\\
+		\end{tabular}
+		\end{center}
 		\end{figure}
 	\end{frame}
 

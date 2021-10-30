@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.9.19)  29 OCT 2021 00:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.27)  30 OCT 2021 08:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1123,56 +1123,77 @@ Overfull \hbox (14.60359pt too wide) in paragraph at lines 176--176
 [5
 
  <./my_images/NaturalConvectionFromNet.png>]
-<./my_images/neural_figure.png, id=200, 1027.84pt x 917.4275pt>
+<./my_images/neural_figure.png, id=201, 1027.84pt x 917.4275pt>
 File: ./my_images/neural_figure.png Graphic file (type png)
 <use ./my_images/neural_figure.png>
 Package pdftex.def Info: ./my_images/neural_figure.png  used on input line 191.
 (pdftex.def)             Requested size: 1027.8375pt x 917.42528pt.
  [6
 
- <./my_images/neural_figure.png>] (./apresentacao_2.toc) [7
+ <./my_images/neural_figure.png>]
+Underfull \hbox (badness 2529) in paragraph at lines 207--207
+[]$\OMS/cmsy/m/n/10 ^^O$ \OT1/cmss/m/n/10 Neu-ral net-woks can be de-scribed
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 207--207
+\OT1/cmss/m/n/10 as neu-ral op-er-a-tors that learn map-
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 207--207
+\OT1/cmss/m/n/10 pings be-tween finite-dimensional eu-
+ []
+
+File: ./my_images/neural_figure.png Graphic file (type png)
+<use ./my_images/neural_figure.png>
+Package pdftex.def Info: ./my_images/neural_figure.png  used on input line 207.
+(pdftex.def)             Requested size: 1027.8375pt x 917.42528pt.
+[7
 
 ] (./apresentacao_2.toc) [8
 
+] (./apresentacao_2.toc) [9
+
 ]
-<figuras/petrobras.png, id=288, 244.66406pt x 150.5625pt>
+<figuras/petrobras.png, id=316, 244.66406pt x 150.5625pt>
 File: figuras/petrobras.png Graphic file (type png)
 <use figuras/petrobras.png>
-Package pdftex.def Info: figuras/petrobras.png  used on input line 208.
+Package pdftex.def Info: figuras/petrobras.png  used on input line 224.
 (pdftex.def)             Requested size: 76.87544pt x 47.30705pt.
-<figuras/logo_mflab.png, id=290, 47.80063pt x 41.9204pt>
+<figuras/logo_mflab.png, id=318, 47.80063pt x 41.9204pt>
 File: figuras/logo_mflab.png Graphic file (type png)
 <use figuras/logo_mflab.png>
-Package pdftex.def Info: figuras/logo_mflab.png  used on input line 208.
+Package pdftex.def Info: figuras/logo_mflab.png  used on input line 224.
 (pdftex.def)             Requested size: 53.9455pt x 47.30705pt.
-<figuras/cnpq.png, id=292, 1003.75pt x 408.52625pt>
+<figuras/cnpq.png, id=320, 1003.75pt x 408.52625pt>
 File: figuras/cnpq.png Graphic file (type png)
 <use figuras/cnpq.png>
-Package pdftex.def Info: figuras/cnpq.png  used on input line 208.
+Package pdftex.def Info: figuras/cnpq.png  used on input line 224.
 (pdftex.def)             Requested size: 116.23291pt x 47.30705pt.
-<figuras/CAPES.png, id=294, 2741.74312pt x 2515.14656pt>
+<figuras/CAPES.png, id=322, 2741.74312pt x 2515.14656pt>
 File: figuras/CAPES.png Graphic file (type png)
 <use figuras/CAPES.png>
-Package pdftex.def Info: figuras/CAPES.png  used on input line 208.
+Package pdftex.def Info: figuras/CAPES.png  used on input line 224.
 (pdftex.def)             Requested size: 51.54143pt x 47.30705pt.
-<figuras/FAPEMIG.jpg, id=296, 955.57pt x 776.9025pt>
+<figuras/FAPEMIG.jpg, id=324, 955.57pt x 776.9025pt>
 File: figuras/FAPEMIG.jpg Graphic file (type jpg)
 <use figuras/FAPEMIG.jpg>
-Package pdftex.def Info: figuras/FAPEMIG.jpg  used on input line 208.
+Package pdftex.def Info: figuras/FAPEMIG.jpg  used on input line 224.
 (pdftex.def)             Requested size: 58.17741pt x 47.30705pt.
-<figuras/UFU_black.jpg, id=298, 89.22223pt x 89.22223pt>
+<figuras/UFU_black.jpg, id=326, 89.22223pt x 89.22223pt>
 File: figuras/UFU_black.jpg Graphic file (type jpg)
 <use figuras/UFU_black.jpg>
-Package pdftex.def Info: figuras/UFU_black.jpg  used on input line 208.
+Package pdftex.def Info: figuras/UFU_black.jpg  used on input line 224.
 (pdftex.def)             Requested size: 47.30797pt x 47.30705pt.
- [9
+ [10
 
  <./figuras/petrobras.png> <./figuras/logo_mflab.png> <./figuras/cnpq.png (PNG copy)> <./figuras/CAPES.png> <./figuras/FAPEMIG.jpg> <./figuras/UFU_black.jpg>]
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <44> not available
-(Font)              size <42.99> substituted on input line 217.
+(Font)              size <42.99> substituted on input line 233.
 
-[10
+[11
 
 ]
 \tf@nav=\write6
@@ -1200,18 +1221,18 @@ Package rerunfilecheck Info: File `apresentacao_2.out' has not changed.
 (rerunfilecheck)             Checksum: 1172BB8DC4CC4142E4BFF1929CF186D3;428.
  ) 
 Here is how much of TeX's memory you used:
- 27143 strings out of 478994
- 490139 string characters out of 5864751
- 864048 words of memory out of 5000000
- 43966 multiletter control sequences out of 15000+600000
+ 27147 strings out of 478994
+ 490174 string characters out of 5864751
+ 864049 words of memory out of 5000000
+ 43968 multiletter control sequences out of 15000+600000
  408743 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,14n,132p,435b,780s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on apresentacao_2.pdf (10 pages, 1739403 bytes).
+Output written on apresentacao_2.pdf (11 pages, 1742347 bytes).
 PDF statistics:
- 388 PDF objects out of 1000 (max. 8388607)
- 330 compressed objects within 4 object streams
- 25 named destinations out of 1000 (max. 500000)
- 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 416 PDF objects out of 1000 (max. 8388607)
+ 356 compressed objects within 4 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 232 words of extra memory for PDF output out of 10000 (max. 10000000)
 

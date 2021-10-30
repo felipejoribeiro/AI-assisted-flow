@@ -19,7 +19,7 @@ Some other works from the authors:
     - zero-shot super-resolution ?
 
 ### Introduction
-Manu problems consist in solving complex partial differential equations (PDE). Traditional discrete approaches are costly and not viable in many occasion given the complexity of the problem.
+Many problems consist in solving complex partial differential equations (PDE). Traditional discrete approaches are costly and not viable in many occasion given the complexity of the problem.
 
 - Traditional solvers such as finite element methods (FEM) and finite difference methods (FDM) sove by discretization of space. There is a trade off between accuracy and computational cost linked to discretization size.
 
