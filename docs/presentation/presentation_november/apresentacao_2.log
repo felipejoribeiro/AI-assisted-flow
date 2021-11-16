@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.9.19)  15 NOV 2021 01:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.9.19)  15 NOV 2021 23:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1136,64 +1136,115 @@ Overfull \vbox (0.31651pt too high) detected at line 122
 ] (./apresentacao_2.toc) [3
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 160.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 161.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 160.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 161.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 160.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 161.
  (/usr/share/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 ) [4
 
-] (./apresentacao_2.toc) [5
+]
+Underfull \hbox (badness 5189) in paragraph at lines 177--177
+\OMS/cmsy/m/n/10 ^^O$ \OT1/cmss/m/n/10 De-spite deal-ing with fluid mass
+ []
 
-] [6
 
-] (./apresentacao_2.toc) [7
+Underfull \hbox (badness 2799) in paragraph at lines 177--177
+\OT1/cmss/m/n/10 press-ible, as vol-u-met-ric changes are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+
+ []
+
+<./my_images/NaturalConvectionFromNet.png, id=202, 612.78937pt x 249.93375pt>
+File: ./my_images/NaturalConvectionFromNet.png Graphic file (type png)
+<use ./my_images/NaturalConvectionFromNet.png>
+Package pdftex.def Info: ./my_images/NaturalConvectionFromNet.png  used on input line 177.
+(pdftex.def)             Requested size: 612.78787pt x 249.93314pt.
+
+Overfull \hbox (14.60359pt too wide) in paragraph at lines 177--177
+ [] 
+ []
+
+[5
+
+ <./my_images/NaturalConvectionFromNet.png>] (./apresentacao_2.toc) [6
+
+] [7
 
 ]
-<figuras/petrobras.png, id=279, 244.66406pt x 150.5625pt>
+Underfull \hbox (badness 2529) in paragraph at lines 198--198
+[]$\OMS/cmsy/m/n/10 ^^O$ \OT1/cmss/m/n/10 Neu-ral net-woks can be de-scribed
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 198--198
+\OT1/cmss/m/n/10 as neu-ral op-er-a-tors that learn map-
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 198--198
+\OT1/cmss/m/n/10 pings be-tween finite-dimensional eu-
+ []
+
+<./my_images/neural_figure.png, id=288, 1027.84pt x 917.4275pt>
+File: ./my_images/neural_figure.png Graphic file (type png)
+<use ./my_images/neural_figure.png>
+Package pdftex.def Info: ./my_images/neural_figure.png  used on input line 198.
+(pdftex.def)             Requested size: 1027.8375pt x 917.42528pt.
+[8
+
+ <./my_images/neural_figure.png>] (./apresentacao_2.toc) [9
+
+] (./apresentacao_2.toc) [10
+
+]
+<figuras/petrobras.png, id=377, 244.66406pt x 150.5625pt>
 File: figuras/petrobras.png Graphic file (type png)
 <use figuras/petrobras.png>
-Package pdftex.def Info: figuras/petrobras.png  used on input line 181.
+Package pdftex.def Info: figuras/petrobras.png  used on input line 215.
 (pdftex.def)             Requested size: 76.87544pt x 47.30705pt.
-<figuras/logo_mflab.png, id=281, 47.80063pt x 41.9204pt>
+<figuras/logo_mflab.png, id=379, 47.80063pt x 41.9204pt>
 File: figuras/logo_mflab.png Graphic file (type png)
 <use figuras/logo_mflab.png>
-Package pdftex.def Info: figuras/logo_mflab.png  used on input line 181.
+Package pdftex.def Info: figuras/logo_mflab.png  used on input line 215.
 (pdftex.def)             Requested size: 53.9455pt x 47.30705pt.
-<figuras/cnpq.png, id=283, 1003.75pt x 408.52625pt>
+<figuras/cnpq.png, id=381, 1003.75pt x 408.52625pt>
 File: figuras/cnpq.png Graphic file (type png)
 <use figuras/cnpq.png>
-Package pdftex.def Info: figuras/cnpq.png  used on input line 181.
+Package pdftex.def Info: figuras/cnpq.png  used on input line 215.
 (pdftex.def)             Requested size: 116.23291pt x 47.30705pt.
-<figuras/CAPES.png, id=285, 2741.74312pt x 2515.14656pt>
+<figuras/CAPES.png, id=383, 2741.74312pt x 2515.14656pt>
 File: figuras/CAPES.png Graphic file (type png)
 <use figuras/CAPES.png>
-Package pdftex.def Info: figuras/CAPES.png  used on input line 181.
+Package pdftex.def Info: figuras/CAPES.png  used on input line 215.
 (pdftex.def)             Requested size: 51.54143pt x 47.30705pt.
-<figuras/FAPEMIG.jpg, id=287, 955.57pt x 776.9025pt>
+<figuras/FAPEMIG.jpg, id=385, 955.57pt x 776.9025pt>
 File: figuras/FAPEMIG.jpg Graphic file (type jpg)
 <use figuras/FAPEMIG.jpg>
-Package pdftex.def Info: figuras/FAPEMIG.jpg  used on input line 181.
+Package pdftex.def Info: figuras/FAPEMIG.jpg  used on input line 215.
 (pdftex.def)             Requested size: 58.17741pt x 47.30705pt.
-<figuras/UFU_black.jpg, id=289, 89.22223pt x 89.22223pt>
+<figuras/UFU_black.jpg, id=387, 89.22223pt x 89.22223pt>
 File: figuras/UFU_black.jpg Graphic file (type jpg)
 <use figuras/UFU_black.jpg>
-Package pdftex.def Info: figuras/UFU_black.jpg  used on input line 181.
+Package pdftex.def Info: figuras/UFU_black.jpg  used on input line 215.
 (pdftex.def)             Requested size: 47.30797pt x 47.30705pt.
- [8
+ [11
 
  <./figuras/petrobras.png> <./figuras/logo_mflab.png> <./figuras/cnpq.png (PNG copy)> <./figuras/CAPES.png> <./figuras/FAPEMIG.jpg> <./figuras/UFU_black.jpg>]
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <44> not available
-(Font)              size <42.99> substituted on input line 190.
+(Font)              size <42.99> substituted on input line 224.
 
-[9
+[12
 
 ]
 \tf@nav=\write6
@@ -1218,21 +1269,21 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.01pt have occurred.
 
 Package rerunfilecheck Info: File `apresentacao_2.out' has not changed.
-(rerunfilecheck)             Checksum: 93F2DB5A92F5DAB890B983F67064128A;387.
+(rerunfilecheck)             Checksum: 16A6D77BC1350695A387A76D0064A70C;531.
  ) 
 Here is how much of TeX's memory you used:
- 30667 strings out of 478994
- 576776 string characters out of 5864751
- 948971 words of memory out of 5000000
- 47436 multiletter control sequences out of 15000+600000
- 408443 words of font info for 45 fonts, out of 8000000 for 9000
+ 30723 strings out of 478994
+ 577942 string characters out of 5864751
+ 949974 words of memory out of 5000000
+ 47480 multiletter control sequences out of 15000+600000
+ 408743 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,14n,132p,435b,779s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on apresentacao_2.pdf (9 pages, 1600907 bytes).
+Output written on apresentacao_2.pdf (12 pages, 1745382 bytes).
 PDF statistics:
- 378 PDF objects out of 1000 (max. 8388607)
- 310 compressed objects within 4 object streams
- 23 named destinations out of 1000 (max. 500000)
- 300 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 476 PDF objects out of 1000 (max. 8388607)
+ 400 compressed objects within 4 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 330 words of extra memory for PDF output out of 10000 (max. 10000000)
 
