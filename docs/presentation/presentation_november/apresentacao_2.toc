@@ -1,5 +1,0 @@
-\babel@toc {english}{}
-\beamer@sectionintoc {2}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {3}{Development}{6}{0}{2}
-\beamer@sectionintoc {4}{Embasamento Teórico}{9}{0}{3}
-\beamer@sectionintoc {5}{Acknowledgments}{10}{0}{4}
